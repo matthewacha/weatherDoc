@@ -1,0 +1,15 @@
+{
+  "name": "weatherdoc",
+  "version": "1.0.0",
+  "description": "Takes array of location and postal code data and returns current weather and time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Wacha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "node-fetch": "^2.3.0"
+  }
+}
