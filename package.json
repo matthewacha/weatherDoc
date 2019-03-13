@@ -9,6 +9,7 @@
   "author": "Matthew Wacha",
   "license": "ISC",
   "dependencies": {
+    "console-read-write": "^0.1.1",
     "dotenv": "^7.0.0",
     "node-fetch": "^2.3.0"
   }
